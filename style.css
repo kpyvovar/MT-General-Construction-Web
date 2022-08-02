@@ -1,0 +1,21 @@
+* {
+padding: 0px;
+margin: 0px;
+list-style: none;
+text-decoration: none;
+box-sizing: border-box;
+}
+
+header {
+  border: solid;
+  background-color: rgb(29, 29, 29);
+  height: 20%;
+}
+
+.ee {
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  box-shadow: none;
+}
